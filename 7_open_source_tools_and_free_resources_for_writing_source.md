@@ -5,7 +5,6 @@ Open source tools can be used to get writing done, and freely available resource
 7 open source tools and free resources for writing and documenting
 ======
 **1. Etherpad**  
-
 This tool is simplistic in style and features, yet powerful for that very reason. It is incredibly easy to use and allows you to collaborate directly with others. I use it to document projects and team work, build out plans, take and share notes, and more.  
 
 Etherpad is free, on GitHub, and distributed under the terms of Apache License 2.0. Download  
@@ -20,7 +19,7 @@ This tool is simple and clean, yet robust for editing source code. I use it to e
 
 Notepad++ is distributed under the terms of the GPL license. Download  
 
-**1. LibreOffice Writer or OpenOffice Writer++**
+**1. LibreOffice Writer or OpenOffice Writer++**  
 These two word processors provide a similiar experience to that of using Microsoft Word. I prefer supporting open source projects, so I enjoy using these tools to review and edit articles that are submitted to Opensource.com.  
 
 LibreOffice Writer is distributed under the terms of the GNU Lesser General Public License, version 3.0. Download  
