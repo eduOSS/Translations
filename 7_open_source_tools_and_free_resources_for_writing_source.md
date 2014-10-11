@@ -9,32 +9,32 @@ This tool is simplistic in style and features, yet powerful for that very reason
 
 Etherpad is free, on GitHub, and distributed under the terms of Apache License 2.0. Download  
 
-**1. Drupal**   
+**2. Drupal**   
 This is the content management system we use to run Opensource.com. I use it daily to write, edit, and publish new articles and stories. Drupal also handles our community accounts and hosts our library of open source resources.  
 
 Drupal 8 is coming out soon, and it is distributed under the terms of the GPL license. Download   
 
-**1. Notepad++**  
+**3. Notepad++**  
 This tool is simple and clean, yet robust for editing source code. I use it to edit and clean up HTML.  
 
 Notepad++ is distributed under the terms of the GPL license. Download  
 
-**1. LibreOffice Writer or OpenOffice Writer++**  
+**4. LibreOffice Writer or OpenOffice Writer++**  
 These two word processors provide a similiar experience to that of using Microsoft Word. I prefer supporting open source projects, so I enjoy using these tools to review and edit articles that are submitted to Opensource.com.  
 
 LibreOffice Writer is distributed under the terms of the GNU Lesser General Public License, version 3.0. Download  
 
 Apache OpenOffice Writer is distributed under the terms of Apache License 2.0. Download  
 
-**1. Creative Commons**  
+**5. Creative Commons**  
 This resource delivers two outstanding options for those of us who create content. At Opensource.com, we use Creative Commons licenses to distribute visual and written content, like photographs, graphics, and articles. And, we use others' photographs, graphics, and articles licensed for re-use to enhance our readers' experience.  
 
 Read more about Creative Commons licenses, choose which one is right for you, and find content for re-use.  
 
-**1. Public Domain Review**  
+**6. Public Domain Review**  
 This resource serves as a way to find works that are released from copyright into the public domain. I use the Public Domain Review to find items, mainly images, that are available for public use.  
 
-**1. Wikipedia**  
+**7. Wikipedia**  
 This resource allows me to point readers to a freely accessible body of information when they may need to better understand a topic, event, or project. I simply link to the appropriate Wikipedia page and go.  
 
 What open source tools or free resources do you use to write and document?  
