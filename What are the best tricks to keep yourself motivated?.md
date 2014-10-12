@@ -1,5 +1,5 @@
 
-http://img.opencas.org/uploads/images/2014/10/73d3562cce6.png
+![carrot](http://img.opencas.org/uploads/images/2014/10/73d3562cce6.png)
 
 09年Heidi Grant Halvorson 在研究人的动机时发现一个惊人的秘密。 她做了一些列的实验，在实验中她要求被试解决一系列的难题。 她把被试分为两组。一组命名为“be-good”组，此组中的被试被告知他们的得分反应了他们的认知和分析能力。他们必须尽量多的解决问题来体现他们的能力。 另一组被命名为“get-better”组，其成员被告知所有问题都是用来训练他们的，他们应该充分利用这次学习的机会来提高问题解决技巧。[1]  
 
