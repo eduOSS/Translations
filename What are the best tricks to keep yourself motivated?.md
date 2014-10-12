@@ -80,3 +80,6 @@ Notes:
 Heidi Grant Halvorson, [Succeed: How We Can Reach Our Goals](http://www.amazon.com/Succeed-How-Can-Reach-Goals/dp/0452297710?tag=effectiveeng-20), p64-68.
 Dan Ariely, et. al., “Large Stakes and Big Mistakes”, https://www.bostonfed.org/econom....
 Daniel Pink, [Drive: The Surprising Truth About What Motivates Us](http://www.amazon.com/gp/product/1594484805?ie=UTF8&camp=1789&creativeASIN=1594484805&linkCode=xm2&tag=effectiveeng-20), p60.
+
+- - - - - - 
+[本文翻译](https://github.com/eduOSS/Translations/edit/master/What%20are%20the%20best%20tricks%20to%20keep%20yourself%20motivated%3F.md)/[英文原文](http://www.quora.com/What-are-the-best-tricks-to-keep-yourself-motivated)
