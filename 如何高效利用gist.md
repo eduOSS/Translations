@@ -1,5 +1,5 @@
 # 如何充分利用Gist？
-Github作为代码分享平台在开发者中非常流行。此平台托管了包括游戏、书籍以至于字体在内的一千两百多万个项目，这是其成为互联网上最大的代码库。  
+Github作为代码分享平台在开发者中非常流行。此平台托管了包括游戏、书籍以至于字体在内的一千两百多万个项目，这使其成为互联网上最大的代码库。  
 
 Github还提供另一个非常有用的功能，这就是Gist。  
 
@@ -10,7 +10,7 @@ Github还提供另一个非常有用的功能，这就是Gist。
 在以下几个方面你不是极客也可以用到Gist。  
 
 ### 1. 匿名张贴  
-你不需要拥有Github账号就可以使用Gist。 用浏览器打开gist.github.com，在窗口中写下你想说的就可以创建一个Gist。你可以发布一个私密的Gist，也就是说这个Gist将不会被他人搜索到而只对直接在浏览器中输入URL的人可见。  
+你不需要拥有Github账号就可以使用Gist。用浏览器打开gist.github.com，在窗口中写下你想说的就可以创建一个Gist。你可以发布一个私密的Gist，也就是说这个Gist将不会被他人搜索到而只对直接在浏览器中输入URL的人可见。    
 
 ### 2. 能像wiki一样记录历史  
 如果你修改已经发布了的Gist的话之前的所有版本都将被保存。你可以点击Revisions按钮按时间浏览，而且你可以通过内置的diff引擎查看任意两个版本间的差异。 这也可以用于比较文本文件。  
@@ -43,12 +43,12 @@ Bl.ocks 是一个非常有趣的专为Gist开发的应用。
 
 ### 8. 把Gist嵌入网页中  
 你可以用一行js代码就可以把任何一条Gist嵌入到网页中。嵌入的Gist格式不发生任何变化，而且访问者可以非常方便的把它们fork到他们的Github中。要嵌入wordpress的话有这个[插件](http://wordpress.org/plugins/oembed-gist/)和[短代码](http://en.support.wordpress.com/gist/)可以使用。  
-> <script src="https://gist.github.com/username/gist-id.js"></script>  
+` <script src="https://gist.github.com/username/gist-id.js"></script> `   
  
 ### 9. 测量访问量  
 你可以使用Google Analytics查看你的Gist的访问量。因为Gist纯文本中不允许运行js代码，所以我们可以用[GA Beacon](https://github.com/igrigorik/ga-beacon)来记录实时访问Gist的情况。  
 把如下代码添加到Gist中，用markdown格式保存，这样就在这个Gist中添加了一个透明追踪图像。  
- `![Analytics](https://ga-beacon.appspot.com/UA-XXXXX-X/gist-id?pixel) ` 
+ `![Analytics](https://ga-beacon.appspot.com/UA-XXXXX-X/gist-id?pixel) `   
 
 ### 10. 在桌面端管理Gist
 Gisto是一个能让您在浏览器之外管理Gist的桌面应用。您可以对Gist进行搜索、编辑、查看历史和分享。 此应用可运行于苹果、微软和linux系统。 当然您也可以用GistBox这个web应用替代它。  
