@@ -32,7 +32,7 @@ Bl.ocks 是一个非常有趣的专为Gist开发的应用。
 您可以用Gist跟踪待处理任务（[举个栗子](https://gist.github.com/labnol/8e1cdf64cd7b0c1a811e)）。这是用纯文本的特殊语法写的但是你可以任意勾选。  
 ```
 - [x] Pick the flowers
-- [ ] Call John 9303032332
+- [ ] Call John 9303032332 
 - [x] Cancel cable subscription
 - [ ] Book the flight tickets  
 ```
