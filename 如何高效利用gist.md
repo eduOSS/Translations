@@ -29,7 +29,7 @@ Bl.ocks 是一个非常有趣的专为Gist开发的应用。
 显然宽带限制是一个问题，但是bl.ock.org作为一个通过Gist托管HTML的工具仍然是相当不错的。 当然你也可以用[Google Drive](http://www.labnol.org/internet/host-website-on-google-drive/28178/)。    
 
 ### 6. 制作任务列表
-你可以用Gist跟踪待处理任务（[举个栗子](https://gist.github.com/labnol/8e1cdf64cd7b0c1a811e)）。这是特殊语法用纯文本写的但是你可以任意勾选。  
+你可以用Gist跟踪待处理任务（[举个栗子](https://gist.github.com/labnol/8e1cdf64cd7b0c1a811e)）。这是用纯文本的特殊语法写的但是你可以任意勾选。  
 ```
 - [x] Pick the flowers
 - [ ] Call John 9303032332
@@ -52,3 +52,6 @@ Bl.ocks 是一个非常有趣的专为Gist开发的应用。
 
 ### 10. 在桌面端管理Gist
 Gisto是一个能让您在浏览器之外管理Gist的桌面应用。您可以对Gist进行搜索、编辑、查看历史和分享。 此应用可运行于苹果、微软和linux系统。 当然您也可以用GistBox这个web应用替代它。  
+
+- - - - - - 
+[翻译原文](https://github.com/eduOSS/Translations/edit/master/%E5%A6%82%E4%BD%95%E9%AB%98%E6%95%88%E5%88%A9%E7%94%A8gist.md)/[英文原文](http://www.labnol.org/internet/github-gist-tutorial/28499/)
